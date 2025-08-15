@@ -1,11 +1,12 @@
 {
   "email": "teste@teste.com",
-  "senha": "teste162",
+  "senha": "teste321",
   "produto": "ForTeSenhor",
   "upsells_comprados": [
     1
   ],
   "data": "2025-08-15T19:26:20.691Z",
   "transacao_id": "test_162470",
-  "acesso_liberado": true
+  "acesso_liberado": true,
+  "data_recuperacao": "2025-08-15T19:27:39.437Z"
 }
